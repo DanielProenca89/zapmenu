@@ -1,0 +1,38 @@
+.bt-prod{
+box-shadow: 0;
+font-weight: bolder;
+margin: 3%;
+
+}
+
+
+.sub{
+    background-color: rgb(226, 42, 42);
+    width: 100%;
+    text-align: center;
+    color:antiquewhite;
+    border-radius: 50px 0px 0px 50px;
+    cursor: pointer;
+}
+
+
+
+
+.add{
+    background-color: rgb(226, 42, 42);
+    width: 100%;
+    text-align: center;
+    color:antiquewhite;
+    border-radius: 0px 50px 50px 0px;
+    cursor: pointer;
+}
+
+.disabled{
+    background-color: #9e9e9ec4;
+
+}
+
+
+.col.bt{
+    padding: 0;
+}

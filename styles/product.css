@@ -40,3 +40,18 @@
     text-justify: auto;
 
 }
+
+.inputEdit{
+    width: 50%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.save{
+    cursor: pointer;
+}

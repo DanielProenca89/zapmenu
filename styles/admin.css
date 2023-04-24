@@ -1,0 +1,41 @@
+.navLeft{
+    width: max-content;
+    left:0;
+    height: 100vh;
+    background-color: black;
+}
+
+.admin{
+    margin: 0;
+}
+
+.navHead{
+    height: 50px;
+    border-bottom: 1px solid aliceblue;
+    align-content: center;
+    justify-content: center;
+    display: grid;
+    font-size: larger;
+    font-weight: bold;
+    color: aquamarine;
+}
+
+.navLinks{
+
+    align-content: center;
+    margin-top: 1em;
+    justify-content: center;
+    display: grid;
+    font-size: medium;
+    color: aliceblue
+}
+
+.navLinks>a{
+    cursor: pointer;
+    padding: 1em;
+
+}
+
+.linkActive{
+    color: coral;
+}
